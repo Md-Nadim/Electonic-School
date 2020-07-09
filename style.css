@@ -1,0 +1,111 @@
+section{
+    margin-bottom: 100px;
+}
+ 
+ .img{
+    width: 200px;
+    height: 60px;
+    left: 210px;
+    top: 30px;
+} 
+.first-cont{
+    background-color: #f0fff0;
+}
+.nav-link:hover{
+    background-color:#2ECC71;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+.started-buttom:hover{
+    background-color:#2ECC71;
+    color: orangered;
+    width: 170px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    padding: 8px 25px;
+}
+#navbar, .head-area{
+    background-color: #f0fff0;
+}
+.started-buttom{
+    background-color:#2ECC71;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 25px;
+    cursor: pointer;
+}
+p{
+    color: gray;
+}
+.head-p{
+    color: red;
+}
+.head-h{
+    color: #2ECC71;
+}
+
+.book1, .book2, .book3, .book4{
+    padding: 10px 30px;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+} 
+#card-border{
+    border: none;
+}
+.card-area{
+    background-color: #2ECC71;;
+}
+.card-img-top{
+    width: 70px;
+    height: 80px;
+}
+.man-img{
+    width: 40px;
+    height: 30px;
+}
+.img-box-shadow, #box-shadow{
+    background: #FFFFFF;
+    box-shadow: 5px 25px 45px rgba(0, 0, 0,0.1);
+    border-radius: 10px;
+}
+#course-card{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+}
+#course-card{
+    padding-top: 20px;
+}
+.i-com{
+    width: 5px;
+    height: 5px;
+}
+.icon{
+    text-align: right;
+}
+.identity-h{
+    text-align: center;
+}
+.img-align{
+    text-align: end;
+}
+.last-div{
+    background-color:#282531;
+    color: white;
+    height: 320px;
+    text-align: center;
+    
+}
+footer{
+    background-color:#282531;
+    color: white;
+    text-align: center;
+}
